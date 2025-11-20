@@ -1,4 +1,3 @@
-```markdown
 # 🎨 Sentiment Analysis Interface (Frontend)
 
 Interface utilisateur moderne et réactive développée avec **Next.js**. Ce client web permet aux utilisateurs de s'authentifier et d'interagir en temps réel avec le microservice d'analyse de sentiment.
